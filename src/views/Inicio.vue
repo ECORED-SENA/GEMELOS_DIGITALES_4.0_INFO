@@ -27,16 +27,6 @@ section
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual
-              li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Requisito de ingreso: 
-                .banner-principal__datos__item__texto
-                  ul.lista-ul
-                    li
-                      i.lista-ul__vineta
-                      p Conocimientos básicos de dibujo y diseño en la industria.
-                    li
-                      i.lista-ul__vineta
-                      p Los que defina el centro de formación.
 
         .d-none.d-lg-block.col-lg-5
           .video
@@ -128,5 +118,7 @@ export default {
   data: () => ({}),
 }
 </script>
-
-<style lang="sass"></style>
+<style lang="sass">
+.banner-principal__info .h1, .banner-principal__info p, .banner-principal__info .h2
+    color: #12263f !important
+</style>
