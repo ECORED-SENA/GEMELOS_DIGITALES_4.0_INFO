@@ -17,7 +17,7 @@ section
                 p.banner-principal__datos__item__texto Creación de gemelos digitales de producto en industria 4.0 
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
-                p.banner-principal__datos__item__texto 22520109
+                p.banner-principal__datos__item__texto 22520114
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
                 p.banner-principal__datos__item__texto 48 Horas
